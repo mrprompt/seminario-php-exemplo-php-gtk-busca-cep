@@ -1,0 +1,23 @@
+{
+    "name": "mrprompt/php-gtk-cep",
+    "description": "Busca de endereços com base no CEP",
+    "type": "gui",
+    "license": "GPL-3.0+",
+    "keywords": ["php", "gtk", "gui", "cep"],
+    "authors": [
+        {
+            "name": "Thiago Paes",
+            "email": "mrprompt@gmail.com",
+            "role": "developer"
+        }
+    ],
+    "support": {
+        "email": "mrprompt@gmail.com",
+        "source": "https://github.com/mrprompt/php-gtk-cep"
+    },
+    "require": {
+        "php": ">=5.3.21",
+        "shuber/curl": "dev-master"
+    },
+    "minimum-stability": "dev"
+}
